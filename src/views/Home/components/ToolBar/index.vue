@@ -35,7 +35,7 @@ const menuList = [
     desc: 'ChatWeb Server',
     icon: 'github',
     handler: () => {
-      window.open('https://github.com/zongzibinbin/MallChat', '_blank')
+      window.open('https://github.com/ZXW-IWS/ChatRoomBackend', '_blank')
     },
   },
   {
@@ -43,7 +43,7 @@ const menuList = [
     desc: 'ChatWeb Web',
     icon: 'github',
     handler: () => {
-      window.open('https://github.com/Evansy/MallChatWeb', '_blank')
+      window.open('https://github.com/ZXW-IWS/ChatRoomFrontend', '_blank')
     },
   },
 ]
